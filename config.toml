@@ -2,13 +2,13 @@ theme = "webstack"
 version = "22.08.07"
 
 # 首页网址
-baseURL = "https://edui123.com"
+baseURL = "https://199107.xyz"
 # 标题
-title = "Edui123.com"
+title = "伤心欲绝"
 
 [params]
     # 副标题
-    subtitle = "让教学有点意思"
+    subtitle = "“我为什么这么做？千百条理由其实都是狗屁的借口。事实就是，我，是个坏蛋，但我能改变，我要改过自新，这是最后一次了。从现在开始 我要洗心革面 重新做人，我要大步向前，选择生活，我的前途一片光明。———《猜火车》”"
     # 横条logo
     logo = "https://cdn.jsdelivr.net/gh/lmm214/edui@gh-pages/images/avatar.png"
     # logo 图标
